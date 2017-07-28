@@ -1,0 +1,15 @@
+{
+  "name": "component-scaffolder-template-component",
+  "version": "0.1.0",
+  "description": "Bare bones component template for component-scaffolder-cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pentaphobe/component-scaffolder-template-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pentaphobe/component-scaffolder-template-component/issues"
+  },
+  "homepage": "https://github.com/pentaphobe/component-scaffolder-template-component#readme"
+}
